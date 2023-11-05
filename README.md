@@ -1,5 +1,5 @@
 Hi, I’m @kaitlynrv.
-I’m hoping to learn more in the data science and coding fields :)
+I’m hoping to learn more in the data science and software engineering fields :)
 
 
 <!---
