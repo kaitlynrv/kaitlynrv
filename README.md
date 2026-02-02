@@ -1,5 +1,22 @@
-Hi, I’m @kaitlynrv.
-I’m hoping to learn more in the data science and software engineering fields :)
+## Hey, I'm Kaitlyn 👋
+
+I'm a data scientist focused on understanding how people interact with AI systems. 
+
+**What I work on:**
+- Experimentation and causal inference for product decisions
+- ML for personalization and prediction (LightGBM, neural networks, feature engineering)
+- LLM-powered analytics tools and agentic systems
+- Self-serve analytics infrastructure
+
+**Background:** Math & Quantitative Economics (Tufts) → Business Analytics (Wake Forest) → 
+Data Science in the wild
+
+**Currently exploring:** How developers adopt and use AI coding tools, measurement 
+frameworks for AI products, and building reliable systems at the intersection of 
+ML capabilities and human behavior.
+
+Always curious about where AI succeeds, where it fails, and how data can help us 
+understand the difference.
 
 
 <!---
